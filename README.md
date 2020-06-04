@@ -1,4 +1,4 @@
-<p align="center"><img src="https://pentacom.in/mun/assets/uploads/logos/logo_-_Copy1.png" width="150"></p>
+<p align="center"><img src="https://github.com/munshiji/pos-and-billing/raw/master/logo_-_Copy1.png" width="150"></p>
 
 <p align="center">
 <a href="#"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
