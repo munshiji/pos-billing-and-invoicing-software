@@ -7,11 +7,16 @@
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Munshiji
+## Munshiji  
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
+## Pice : 99$/year
+
 ## Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
+
+
+
 
 - Point Of Sale System,
 - Billing System,
@@ -36,6 +41,9 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 
 # pos-and-billing
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
+
+
+
 
 
 ## Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
