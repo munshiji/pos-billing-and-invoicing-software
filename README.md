@@ -11,7 +11,7 @@
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
-***Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
+## Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
 
 - Point Of Sale System,
 - Billing System,
@@ -38,4 +38,4 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
 
 
-***Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
+## Demo : <a href="https://youtu.be/xir6z1Fl8ag" rel="nofollow">Watch Demo</a>
