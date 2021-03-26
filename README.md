@@ -11,8 +11,13 @@
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
-## Demo : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
+## Demo Video : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
 
+<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/2019-05-19_19-10-58.png?raw=true" alt="View"></a>
+
+<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/SaleGraph.png?raw=true" alt="Sales Graph"></a>
+
+<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/2019-05-19_22-48-12.png?raw=true" alt="Barcode Comatiblity"></a>
 
 
 
