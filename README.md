@@ -20,6 +20,7 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 <a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/2019-05-19_22-48-12.png?raw=true" alt="Barcode Comatiblity"></a>
 
 
+## Demo Video : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
 
 - Point Of Sale System,
 - Billing System,
