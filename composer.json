@@ -14,13 +14,12 @@
 		"phpoffice/phpexcel": "^1.8",
 		"stripe/stripe-php": "^5.1",
 		"zendframework/zend-barcode": "^2.7",
-		"tecdiary/sms": "^1.0.2"
 	},
 	"license": "Commercial License",
 	"authors": [
 		{
-			"name": "Mian Saleem",
-			"email": "saleem@tecdiary.com"
+			"name": "Zakir S",
+			"email": "munshiji.zakir@gmail.com"
 		}
 	]
 }
