@@ -41,7 +41,7 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 - Medical Shop POS Software,
 - Resturent POS & Billing Software
 
-## Pice : Contact For Pricing
+## Pice : 198 USD / Year
 
 # pos-and-billing
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
