@@ -41,7 +41,7 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 - Medical Shop POS Software,
 - Resturent POS & Billing Software
 
-## Price : 100 USD / Year ( world wide )
+## Price : 120 USD / Year ( world wide )
 ## Price : 5000 Rs / Year ( India )
 
 # pos-and-billing
