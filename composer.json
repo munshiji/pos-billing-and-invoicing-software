@@ -1,7 +1,7 @@
 {
 	"name": "munshiji/pos",
 	"version": "4.4.29",
-	"description": "Stock Management System",
+	"description": "Billing And POS Software",
 	"type": "project",
 	"require": {
 		"php": "^7.1.3",
