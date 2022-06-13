@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/munshiji/pos-and-billing/raw/master/logo_-_Copy1.png" width="150"></p>
+<p align="center"><a href="https://billingprobe.com/" ><img src="https://github.com/munshiji/pos-and-billing/raw/master/logo_-_Copy1.png" width="150"> </a></p>
 
 <p align="center">
 <a href="#"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -7,7 +7,7 @@
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Munshiji  
+## Munshiji  -- Billing Probe ( <a href="https://billingprobe.com/" > billingprobe.com </a> )
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
