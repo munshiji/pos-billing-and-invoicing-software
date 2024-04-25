@@ -7,20 +7,20 @@
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Munshiji  -- Billing Probe ( <a href="https://billingprobe.com/" > billingprobe.com </a> )
+## Munshiji  -- BillingProbe ( <a href="https://billingprobe.com/" > Billing Software </a> )
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
-## Demo Video : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
+## Demo Video : <a href="https://billingprobe.com/" target="_blank">Billing Software Demo Video</a>
 
-<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/pos-software-gst-enabled--500x500.png?raw=true" alt="Point Of Sale"></a>
+<a href="https://billingprobe.com/"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/pos-software-gst-enabled--500x500.png?raw=true" alt="Point Of Sale"></a>
 
-<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/SaleGraph.png?raw=true" alt="Sales Graph"></a>
+<a href="https://billingprobe.com/"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/SaleGraph.png?raw=true" alt="Billing Software"></a>
 
-<a href="https://youtu.be/xir6z1Fl8ag"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/2019-05-19_22-48-12.png?raw=true" alt="Barcode Comatiblity"></a>
+<a href="https://billingprobe.com/"><img src="https://github.com/munshiji/pos-billing-and-invoicing-software/blob/master/assets/2019-05-19_22-48-12.png?raw=true" alt="Inventory Software"></a>
 
 
-## Demo Video : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
+## Demo Video : <a href="https://billingprobe.com/" target="_blank">Watch Demo</a>
 
 - Point Of Sale System,
 - Billing System,
@@ -48,12 +48,7 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
 
 
-
-## Demo : <a href="https://youtu.be/xir6z1Fl8ag" target="_blank">Watch Demo</a>
-
-
-
-## Contact Us :- 
+## For Partnership & Profit Sharing Contact Us :- 
 
 WhatsApp :- <a href="https://web.whatsapp.com/send?phone=917798383112" target="_blank" >+91-7798383112</a>
 <br>
