@@ -7,7 +7,7 @@
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Munshiji  -- BillingProbe ( <a href="https://billingprobe.com/" > Billing Software </a> )
+## Munshiji  Has been Re-Branded to BillingProbe ( <a href="https://billingprobe.com/" > Billing Software </a> )
 
 One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your entire retail business better with desktop pos software, web based point of sale software and mobile app solution for single and multiple store retail business :
 
