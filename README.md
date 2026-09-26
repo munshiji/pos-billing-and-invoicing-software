@@ -47,6 +47,8 @@ One Of The Best Retail Wholesale Point Of sale Software 2020, To manage your ent
 # pos-and-billing
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
 
+# copyright & developed by 
+copyright & developed by https://techsingularity.com/
 
 ## For Partnership & Profit Sharing Contact Us :- 
 
